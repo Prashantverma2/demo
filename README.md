@@ -1,6 +1,6 @@
 # demo
+
 This is my first git repository
 <br>
 
-Authod - prashant verma
-
+Authod - prashant (Lpu)
